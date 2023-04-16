@@ -10,3 +10,5 @@ The application can be utilized in different settings, from private ventures to 
 
 **Result:**
 In conclusion, Mask Detection utilizing AI is a powerful answer for the issue of implementing mask-wearing in packed places. By utilizing PC vision innovation and a profound learning calculation, conceivable to foster an application can distinguish regardless of whether an individual is wearing a mask progressively.
+
+We were not able to deploy our app on google cloud and was not able to use amd instances due to some unavoidable reasons.
